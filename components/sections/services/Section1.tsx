@@ -1,0 +1,287 @@
+import Link from "next/link";
+
+export default function Section1() {
+    return (
+        <>
+            {/*it-solutions services section 1*/}
+            <section className="it-solutions-services-section-1 pt-120">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={0}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M31.6641 34.1673C32.3732 33.849 32.9797 33.436 33.5121 32.8998C35.8307 30.5638 35.8307 26.8042 35.8307 19.2848C35.8307 11.7656 35.8307 8.00588 33.5121 5.66993C31.1932 3.33398 27.4612 3.33398 19.9974 3.33398C12.5335 3.33398 8.80155 3.33398 6.4828 5.66993C4.16406 8.00588 4.16406 11.7656 4.16406 19.2848C4.16406 26.8042 4.16406 30.5638 6.4828 32.8998C7.015 33.436 7.62161 33.849 8.33073 34.1673" stroke="white" strokeWidth="2.4" strokeLinecap="round" />
+                                            <path d="M4.16406 14.166H35.8307" stroke="white" strokeWidth="2.4" strokeLinejoin="round" />
+                                            <path d="M11.6641 9.16602H11.679" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M18.3281 9.16602H18.3431" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path
+                                                d="M15.8307 27.291C15.8307 27.9813 16.3904 28.541 17.0807 28.541C17.7711 28.541 18.3307 27.9813 18.3307 27.291H15.8307ZM21.6641 27.291C21.6641 27.9813 22.2237 28.541 22.9141 28.541C23.6044 28.541 24.1641 27.9813 24.1641 27.291H21.6641ZM18.5391 28.541H21.4557V26.041H18.5391V28.541ZM21.4557 35.416H18.5391V37.916H21.4557V35.416ZM18.5391 35.416C17.8412 35.416 17.3849 35.4152 17.0344 35.3897C16.6967 35.3648 16.5537 35.322 16.4716 35.2857L15.4575 37.5707C15.9114 37.7722 16.3761 37.8482 16.8521 37.883C17.3149 37.9168 17.8779 37.916 18.5391 37.916V35.416ZM12.9141 31.9785C12.9141 32.6905 12.9135 33.283 12.9443 33.7679C12.9758 34.2622 13.0437 34.731 13.2202 35.1877L15.552 34.2862C15.5065 34.1683 15.4633 33.9862 15.4393 33.609C15.4146 33.222 15.4141 32.7225 15.4141 31.9785H12.9141ZM16.4716 35.2857C16.0759 35.11 15.7353 34.7603 15.552 34.2862L13.2202 35.1877C13.6289 36.245 14.4239 37.112 15.4575 37.5707L16.4716 35.2857ZM24.5807 31.9785C24.5807 32.7225 24.5801 33.222 24.5556 33.609C24.5316 33.9862 24.4884 34.1683 24.4427 34.2862L26.7746 35.1877C26.9511 34.731 27.0189 34.2622 27.0504 33.7679C27.0814 33.283 27.0807 32.6905 27.0807 31.9785H24.5807ZM21.4557 37.916C22.1169 37.916 22.6799 37.9168 23.1427 37.883C23.6187 37.8482 24.0834 37.7722 24.5372 37.5707L23.5232 35.2857C23.4411 35.322 23.2981 35.3648 22.9604 35.3897C22.6099 35.4152 22.1536 35.416 21.4557 35.416V37.916ZM24.4427 34.2862C24.2596 34.7603 23.9189 35.11 23.5232 35.2857L24.5372 37.5707C25.5709 37.112 26.3659 36.245 26.7746 35.1877L24.4427 34.2862ZM21.4557 28.541C22.1536 28.541 22.6099 28.5419 22.9604 28.5674C23.2981 28.5922 23.4411 28.635 23.5232 28.6713L24.5372 26.3863C24.0834 26.1848 23.6187 26.1088 23.1427 26.074C22.6799 26.0402 22.1169 26.041 21.4557 26.041V28.541ZM27.0807 31.9785C27.0807 31.2665 27.0814 30.674 27.0504 30.1892C27.0189 29.6948 26.9511 29.226 26.7746 28.7693L24.4427 29.6708C24.4884 29.7887 24.5316 29.9708 24.5556 30.348C24.5801 30.735 24.5807 31.2345 24.5807 31.9785H27.0807ZM23.5232 28.6713C23.9189 28.847 24.2596 29.1967 24.4427 29.6708L26.7746 28.7693C26.3659 27.7122 25.5709 26.845 24.5372 26.3863L23.5232 28.6713ZM18.5391 26.041C17.8779 26.041 17.3149 26.0402 16.8521 26.074C16.3761 26.1088 15.9114 26.1848 15.4575 26.3863L16.4716 28.6713C16.5537 28.635 16.6967 28.5922 17.0344 28.5674C17.3849 28.5419 17.8412 28.541 18.5391 28.541V26.041ZM15.4141 31.9785C15.4141 31.2345 15.4146 30.735 15.4393 30.348C15.4633 29.9708 15.5065 29.7887 15.552 29.6708L13.2202 28.7693C13.0437 29.226 12.9758 29.6948 12.9443 30.1892C12.9135 30.674 12.9141 31.2665 12.9141 31.9785H15.4141ZM15.4575 26.3863C14.4239 26.845 13.6289 27.7122 13.2202 28.7693L15.552 29.6708C15.7353 29.1967 16.0759 28.847 16.4716 28.6713L15.4575 26.3863ZM18.3307 27.291V24.4785H15.8307V27.291H18.3307ZM21.6641 24.4785V27.291H24.1641V24.4785H21.6641ZM19.9974 22.916C20.9611 22.916 21.6641 23.658 21.6641 24.4785H24.1641C24.1641 22.1923 22.2554 20.416 19.9974 20.416V22.916ZM18.3307 24.4785C18.3307 23.658 19.0337 22.916 19.9974 22.916V20.416C17.7394 20.416 15.8307 22.1923 15.8307 24.4785H18.3307Z"
+                                                fill="white"
+                                            />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Cyber Security Solution</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">01</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={200}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={44} height={44} viewBox="0 0 44 44" fill="none">
+                                            <path d="M16.5 24.2401L19.8847 27.4993L27.5 20.166M15.4 34.8327C9.93238 34.8327 5.5 30.4407 5.5 25.0231C5.5 20.5329 8.8 16.3848 13.75 15.5827C15.3027 11.891 18.9776 9.16602 23.2637 9.16602C28.754 9.16602 33.2414 13.424 33.55 18.791C36.4637 20.065 38.5 23.1916 38.5 26.577C38.5 31.1365 34.8064 34.8327 30.25 34.8327H15.4Z" stroke="white" strokeWidth="2.6" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Scalable Cloud Solutions</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">02</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={400}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M19.9974 13.334C27.3612 13.334 33.3307 11.0954 33.3307 8.33398C33.3307 5.57256 27.3612 3.33398 19.9974 3.33398C12.6336 3.33398 6.66406 5.57256 6.66406 8.33398C6.66406 11.0954 12.6336 13.334 19.9974 13.334Z" stroke="white" strokeWidth="2.5" />
+                                            <path d="M33.3307 20C33.3307 22.7615 27.3612 25 19.9974 25C12.6336 25 6.66406 22.7615 6.66406 20" stroke="white" strokeWidth="2.5" />
+                                            <path d="M33.3307 8.33398V31.6673C33.3307 34.4288 27.3612 36.6673 19.9974 36.6673C12.6336 36.6673 6.66406 34.4288 6.66406 31.6673V8.33398" stroke="white" strokeWidth="2.5" />
+                                            <path d="M13.3359 13.334V17.5007" stroke="white" strokeWidth="2.5" />
+                                            <path d="M13.3359 25V29.1667" stroke="white" strokeWidth="2.5" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Data Protection Services</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">03</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={0}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M11.6693 10.8327H27.9193C31.4304 10.8327 33.1859 10.8327 34.4471 11.6753C34.9931 12.0401 35.4618 12.5089 35.8266 13.0548C36.5628 14.1565 36.6558 15.6355 36.6676 18.3327M20.0026 10.8327L18.9469 8.72123C18.0723 6.97198 17.2729 5.21122 15.3347 4.48437C14.4858 4.16602 13.516 4.16602 11.5764 4.16602C8.54894 4.16602 7.0352 4.16602 5.89937 4.79988C5.08972 5.25172 4.42164 5.9198 3.9698 6.72945C3.33594 7.86528 3.33594 9.37902 3.33594 12.4065V17.4993C3.33594 25.356 3.33594 29.2845 5.77672 31.7252C7.9436 33.8922 11.2829 34.1353 17.5026 34.1625H18.3359" stroke="white" strokeWidth="2.6" strokeLinecap="round" />
+                                            <path d="M30.0026 33.6912V35.834M30.0026 33.6912C28.0746 33.6912 26.3761 32.7442 25.3798 31.3062M30.0026 33.6912C31.9306 33.6912 33.6291 32.7442 34.6254 31.3062M25.3798 31.3062L23.3366 32.6197M25.3798 31.3062C24.7906 30.4557 24.4471 29.4335 24.4471 28.334C24.4471 27.2345 24.7904 26.2125 25.3796 25.3622M34.6254 31.3062L36.6686 32.6197M34.6254 31.3062C35.2146 30.4557 35.5581 29.4335 35.5581 28.334C35.5581 27.2345 35.2148 26.2125 34.6256 25.3622M30.0026 22.9768C31.9308 22.9768 33.6294 23.924 34.6256 25.3622M30.0026 22.9768C28.0744 22.9768 26.3758 23.924 25.3796 25.3622M30.0026 22.9768V20.834M34.6256 25.3622L36.6693 24.0483M25.3796 25.3622L23.3359 24.0483" stroke="white" strokeWidth="2.6" strokeLinecap="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Optimization Management</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">04</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={200}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={38} height={38} viewBox="0 0 38 38" fill="none">
+                                            <path d="M11.0807 30.8743C11.0807 33.0605 9.30852 34.8327 7.1224 34.8327C4.93627 34.8327 3.16406 33.0605 3.16406 30.8743C3.16406 28.6882 4.93627 26.916 7.1224 26.916C9.30852 26.916 11.0807 28.6882 11.0807 30.8743Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M34.8307 30.8743C34.8307 33.0605 33.0585 34.8327 30.8724 34.8327C28.6863 34.8327 26.9141 33.0605 26.9141 30.8743C26.9141 28.6882 28.6863 26.916 30.8724 26.916C33.0585 26.916 34.8307 28.6882 34.8307 30.8743Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M30.875 26.916C30.6092 23.0321 29.1256 22.166 24.1094 22.166H13.8905C8.87447 22.166 7.39081 23.0321 7.125 26.916" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M19 10.291L20.5833 7.91602M26.125 10.291C26.125 14.226 22.9351 17.416 19 17.416C15.065 17.416 11.875 14.226 11.875 10.291C11.875 6.35599 15.065 3.16602 19 3.16602C22.9351 3.16602 26.125 6.35599 26.125 10.291Z" stroke="white" strokeWidth="2.4" strokeLinecap="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">HelpDesk 360 Solutions</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">05</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={400}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M4.16406 19.9993C4.16406 12.5354 4.16406 8.8035 6.4828 6.48475C8.80155 4.16602 12.5335 4.16602 19.9974 4.16602C27.4612 4.16602 31.1932 4.16602 33.5121 6.48475C35.8307 8.8035 35.8307 12.5354 35.8307 19.9993C35.8307 27.4632 35.8307 31.1952 33.5121 33.514C31.1932 35.8327 27.4612 35.8327 19.9974 35.8327C12.5335 35.8327 8.80155 35.8327 6.4828 33.514C4.16406 31.1952 4.16406 27.4632 4.16406 19.9993Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M4.16406 15H35.8307" stroke="white" strokeWidth="2.4" strokeLinejoin="round" />
+                                            <path d="M11.6641 10H11.679" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M18.3359 10H18.3509" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M13.3359 21.666L15.3802 23.428C16.2396 24.1687 16.6693 24.5392 16.6693 24.9993C16.6693 25.4595 16.2396 25.83 15.3802 26.5707L13.3359 28.3327" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M20 28.334H26.6667" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Software Development</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">06</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={0}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M11.6693 10.8327H27.9193C31.4304 10.8327 33.1859 10.8327 34.4471 11.6753C34.9931 12.0401 35.4618 12.5089 35.8266 13.0548C36.5628 14.1565 36.6558 15.6355 36.6676 18.3327M20.0026 10.8327L18.9469 8.72123C18.0723 6.97198 17.2729 5.21122 15.3347 4.48437C14.4858 4.16602 13.516 4.16602 11.5764 4.16602C8.54894 4.16602 7.0352 4.16602 5.89937 4.79988C5.08972 5.25172 4.42164 5.9198 3.9698 6.72945C3.33594 7.86528 3.33594 9.37902 3.33594 12.4065V17.4993C3.33594 25.356 3.33594 29.2845 5.77672 31.7252C7.9436 33.8922 11.2829 34.1353 17.5026 34.1625H18.3359" stroke="white" strokeWidth="2.6" strokeLinecap="round" />
+                                            <path d="M30.0026 33.6912V35.834M30.0026 33.6912C28.0746 33.6912 26.3761 32.7442 25.3798 31.3062M30.0026 33.6912C31.9306 33.6912 33.6291 32.7442 34.6254 31.3062M25.3798 31.3062L23.3366 32.6197M25.3798 31.3062C24.7906 30.4557 24.4471 29.4335 24.4471 28.334C24.4471 27.2345 24.7904 26.2125 25.3796 25.3622M34.6254 31.3062L36.6686 32.6197M34.6254 31.3062C35.2146 30.4557 35.5581 29.4335 35.5581 28.334C35.5581 27.2345 35.2148 26.2125 34.6256 25.3622M30.0026 22.9768C31.9308 22.9768 33.6294 23.924 34.6256 25.3622M30.0026 22.9768C28.0744 22.9768 26.3758 23.924 25.3796 25.3622M30.0026 22.9768V20.834M34.6256 25.3622L36.6693 24.0483M25.3796 25.3622L23.3359 24.0483" stroke="white" strokeWidth="2.6" strokeLinecap="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Custom App Development</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">07</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={200}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={38} height={38} viewBox="0 0 38 38" fill="none">
+                                            <path d="M11.0807 30.8743C11.0807 33.0605 9.30852 34.8327 7.1224 34.8327C4.93627 34.8327 3.16406 33.0605 3.16406 30.8743C3.16406 28.6882 4.93627 26.916 7.1224 26.916C9.30852 26.916 11.0807 28.6882 11.0807 30.8743Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M34.8307 30.8743C34.8307 33.0605 33.0585 34.8327 30.8724 34.8327C28.6863 34.8327 26.9141 33.0605 26.9141 30.8743C26.9141 28.6882 28.6863 26.916 30.8724 26.916C33.0585 26.916 34.8307 28.6882 34.8307 30.8743Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M30.875 26.916C30.6092 23.0321 29.1256 22.166 24.1094 22.166H13.8905C8.87447 22.166 7.39081 23.0321 7.125 26.916" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M19 10.291L20.5833 7.91602M26.125 10.291C26.125 14.226 22.9351 17.416 19 17.416C15.065 17.416 11.875 14.226 11.875 10.291C11.875 6.35599 15.065 3.16602 19 3.16602C22.9351 3.16602 26.125 6.35599 26.125 10.291Z" stroke="white" strokeWidth="2.4" strokeLinecap="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">IT Infrastructure Networking</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">08</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 mb-5">
+                            <div className="card-services position-relative shadow rounded-4" data-aos="fade-up" data-aos-delay={400}>
+                                <Link href="#" className="position-absolute end-0 top-0 m-4">
+                                    <div className="icon-shape icon-40 rounded-circle bg-white">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={20} height={20} viewBox="0 0 20 20" fill="none">
+                                            <path d="M5 15L15 5" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M6.875 5H15V13.125" stroke="#0D6EFD" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                </Link>
+                                <div className="card-body px-4 py-5">
+                                    <div className="icon-shape icon-70 rounded-circle bg-primary">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width={40} height={40} viewBox="0 0 40 40" fill="none">
+                                            <path d="M4.16406 19.9993C4.16406 12.5354 4.16406 8.8035 6.4828 6.48475C8.80155 4.16602 12.5335 4.16602 19.9974 4.16602C27.4612 4.16602 31.1932 4.16602 33.5121 6.48475C35.8307 8.8035 35.8307 12.5354 35.8307 19.9993C35.8307 27.4632 35.8307 31.1952 33.5121 33.514C31.1932 35.8327 27.4612 35.8327 19.9974 35.8327C12.5335 35.8327 8.80155 35.8327 6.4828 33.514C4.16406 31.1952 4.16406 27.4632 4.16406 19.9993Z" stroke="white" strokeWidth="2.4" />
+                                            <path d="M4.16406 15H35.8307" stroke="white" strokeWidth="2.4" strokeLinejoin="round" />
+                                            <path d="M11.6641 10H11.679" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M18.3359 10H18.3509" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M13.3359 21.666L15.3802 23.428C16.2396 24.1687 16.6693 24.5392 16.6693 24.9993C16.6693 25.4595 16.2396 25.83 15.3802 26.5707L13.3359 28.3327" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                            <path d="M20 28.334H26.6667" stroke="white" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <Link href="#">
+                                        <h6 className="fs-22 my-3">Business Consulting</h6>
+                                    </Link>
+                                    <p className="description">Our advanced cybersecurity solution designed to protect against ever- an evolving threats, approach ensures.</p>
+                                    <div className="step align-items-center justify-content-start gap-3">
+                                        <span className="line" />
+                                        <p className="text-primary fw-medium mb-0">09</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </>
+    );
+}
