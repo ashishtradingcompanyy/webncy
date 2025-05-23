@@ -7,10 +7,10 @@ export default function Home() {
     return (
         <>
             <Layout>
-                <PageHeader title="Pricing Plan" current_page="Pricing Plan" />
+                {/* <PageHeader title="Pricing Plan" current_page="Pricing Plan" />
                 <Section7 bg_section="bg-white" bg_card="bg-light-2" classList="text-center" />
                 <Section1 />
-                <Section8 />
+                <Section8 /> */}
             </Layout>
         </>
     );

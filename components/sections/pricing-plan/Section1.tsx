@@ -33,7 +33,7 @@ export default function Section1() {
                                         <span className="btn-text opacity-50 wow img-custom-anim-left">advanced</span>
                                         <br />
                                         <div className="d-flex justify-content-center pricing__price wow img-custom-anim-left">
-                                            <h1 className="mb-0">$</h1>
+                                            <h1 className="mb-0"></h1>
                                             <h1 className="mb-0 price monthly_price">99</h1>
                                             <h1 className="mb-0 price annual_price">299</h1>
                                         </div>
