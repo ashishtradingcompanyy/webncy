@@ -128,7 +128,7 @@ export default function Section1() {
                     <div className="row pt-100">
                         <div className="col-12">
                             <div className="contact-map border rounded-4 overflow-hidden">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.841693297398!2d-95.48278082391168!3d30.184515811919777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864736dd8ebbf40b%3A0x73582e99585df3f1!2sAvante%20Laser%20and%20Medispa!5e0!3m2!1svi!2s!4v1736490283816!5m2!1svi!2s" width={600} height={450} style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.353420411758!2d72.83235207524173!3d19.179759982046402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7002c086a01%3A0xb4c72c09af8c5b89!2sWebency%20Technology!5e0!3m2!1sen!2sin!4v1747969675421!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 <div className="position-absolute bottom-50 start-50 bg-dark text-center p-4 rounded-4 z-2 d-none d-md-block">
                                     <p className="fs-16 text-white mb-2">
                                        Main Road Bilaunji Waidhan<br />
