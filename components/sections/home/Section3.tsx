@@ -4,7 +4,7 @@ export default function Section3() {
             {/*it-solutions-home-section-3*/}
             <section className="it-solutions-home-section-3 position-relative overflow-hidden pt-120 pb-120 bg-light-2">
                 <div className="position-absolute top-50 start-50 translate-middle">
-                    <img data-aos="zoom-in" src="assets/imgs/pages/it-solutions/page-home/home-section-3/decor-bg.png" alt="AstraX" />
+                    <img data-aos="zoom-in" src="assets/imgs/pages/it-solutions/page-home/home-section-3/decor-bg.png" alt="Webency" />
                 </div>
                 <div className="container position-relative z-1">
                     <div className="row g-md-5 g-3">

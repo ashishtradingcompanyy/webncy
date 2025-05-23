@@ -25,38 +25,37 @@ export default function Section2() {
                                 <nav>
                                     <div className="nav nav-tabs justify-content-center border-bottom-0 mb-5" id="nav-tab" role="tablist">
                                         <button aria-label="about us" className="nav-link position-relative active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">
-                                            about us
+                                        Why Choose Webency Technology?
                                         </button>
-                                        <button aria-label="our mission" className="nav-link position-relative" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
+                                        {/* <button aria-label="our mission" className="nav-link position-relative" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">
                                             history
                                         </button>
                                         <button aria-label="our vision" className="nav-link position-relative" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">
                                             our vision
-                                        </button>
+                                        </button> */}
                                     </div>
                                 </nav>
                                 <div className="tab-content" id="nav-tabContent">
                                     <div className="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" tabIndex={0}>
                                         <div className="wow img-custom-anim-left">
                                             <h2 className="text-anime-style-1">
-                                                Our team of digital marketing experts <br />
-                                                is dedicated to empowering businesses to thrive basis online.
+                                                We're a local digital agency based in Waidhan, Singrauli helping businesses go online the right way. Unlike generic website builders, we understand the needs of Indian local businesses — and provide real, affordable solutions that bring customers, not just design.
                                             </h2>
                                             <div className="d-flex flex-lg-row flex-column align-items-center justify-content-center gap-5 pt-60">
-                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="AstraX" />
-                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="AstraX" />
+                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="Webency" />
+                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="Webency" />
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" tabIndex={1}>
+                                    {/* <div className="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" tabIndex={1}>
                                         <div className="wow img-custom-anim-left">
                                             <h2 className="text-anime-style-1">
                                                 Our team of digital marketing experts <br />
                                                 is dedicated to empowering businesses to thrive basis online.
                                             </h2>
                                             <div className="d-flex flex-lg-row flex-column align-items-center justify-content-center gap-5 pt-60">
-                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="AstraX" />
-                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="AstraX" />
+                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="Webency" />
+                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="Webency" />
                                             </div>
                                         </div>
                                     </div>
@@ -67,11 +66,11 @@ export default function Section2() {
                                                 is dedicated to empowering businesses to thrive basis online.
                                             </h2>
                                             <div className="d-flex flex-lg-row flex-column align-items-center justify-content-center gap-5 pt-60">
-                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="AstraX" />
-                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="AstraX" />
+                                                <img className="rounded-4" data-aos="flip-right" src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-1.png" alt="Webency" />
+                                                <img className="rounded-4" data-aos="flip-right" data-aos-delay={300} src="assets/imgs/pages/it-solutions/page-home/home-section-2/img-2.png" alt="Webency" />
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>

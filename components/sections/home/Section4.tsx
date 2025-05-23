@@ -83,7 +83,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -107,7 +107,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -131,7 +131,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -155,7 +155,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -189,7 +189,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -213,7 +213,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -237,7 +237,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -261,7 +261,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -295,7 +295,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -319,7 +319,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -343,7 +343,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -367,7 +367,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -401,7 +401,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-1.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -425,7 +425,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -449,7 +449,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-3.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>
@@ -473,7 +473,7 @@ export default function Section4({ bg }: any) {
                                     <SwiperSlide>
                                         <div className="card-portfolio position-relative rounded-4 overflow-hidden">
                                             <Link href="#">
-                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="AstraX" />
+                                                <img className="w-100" src="assets/imgs/pages/it-solutions/page-home/home-section-4/img-2.png" alt="Webency" />
                                             </Link>
                                             <div className="position-absolute bottom-0 start-0 z-2 m-4">
                                                 <h5 className="text-white title">Google Cloud Solutions</h5>

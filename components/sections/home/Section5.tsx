@@ -109,7 +109,7 @@ export default function Section5() {
                                                 <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-1.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-1.png" alt="Webency" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -142,7 +142,7 @@ export default function Section5() {
                                                 <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="Webency" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -175,7 +175,7 @@ export default function Section5() {
                                                 <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-3.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-3.png" alt="Webency" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">
@@ -208,7 +208,7 @@ export default function Section5() {
                                                 <p className="mb-0 mt-4 text-white">" Unrivaled brilliance surpassing all others. Highly recommended for novices and experts alike. We will hire them for sure. "</p>
                                                 <div className="d-flex align-items-center mt-5 position-relative z-1">
                                                     <Link href="#">
-                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="AstraX" />
+                                                        <img className="rounded-circle icon-shape icon-50" src="assets/imgs/pages/it-solutions/page-home/home-section-8/avatar-2.png" alt="Webency" />
                                                     </Link>
                                                     <div className="text-start ms-3">
                                                         <Link href="#">

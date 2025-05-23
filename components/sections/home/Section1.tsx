@@ -60,10 +60,10 @@ export default function Section1() {
                         </div>
                         <div className="col-lg-6 offset-lg-1">
                             <div className="position-relative d-inline-block mt-lg-0 mt-8">
-                                <img className="rounded-3 wow img-custom-anim-top" src="assets/imgs/pages/it-solutions/page-home/home-section-1/img-1.png" alt="AstraX" />
+                                <img className="rounded-3 wow img-custom-anim-top" src="assets/imgs/pages/it-solutions/page-home/home-section-1/img-1.png" alt="Webency" />
                                 <div className="alltuchtopdown d-none d-md-block">
                                     <div data-aos="zoom-in" data-aos-delay={500}>
-                                        <img className="rounded-3 position-md-absolute bottom-0 mb-8 start-100 translate-middle-md-x shadow" src="assets/imgs/pages/it-solutions/page-home/home-section-1/img-2.png" alt="AstraX" />
+                                        <img className="rounded-3 position-md-absolute bottom-0 mb-8 start-100 translate-middle-md-x shadow" src="assets/imgs/pages/it-solutions/page-home/home-section-1/img-2.png" alt="Webency" />
                                     </div>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@ export default function Section1() {
                                     <p className="btn-text text-white mb-0 mt-4">WhatsApp Integration</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-1/icon-phone.svg" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-1/icon-phone.svg" alt="Webency" />
                                     <p className="btn-text text-white mb-0 mt-4">Digital Identity Package</p>
                                 </div>
                                 <div className="backdrop-filter-20 rounded-3 p-7 position-relative z-1 text-center w-lg-18 w-md-33 w-50 hover-up">

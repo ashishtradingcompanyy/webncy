@@ -55,7 +55,7 @@ export default function Section8() {
                                 <span className="text-primary fs-7 fw-medium position-relative z-1 btn-text border-top border-primary px-2 py-2">call to action</span>
                                 <h2 className="text-dark my-3 position-relative z-1 text-anime-style-1">
                                     Ready to grow your <br />
-                                    business? Start with <span className="text-primary">Astrax</span> &amp; become <br />
+                                    business? Start with <span className="text-primary">Webency</span> &amp; become <br />
                                     faster every second.
                                 </h2>
                                 <Link href="/contact" data-aos="zoom-in" className="btn btn-outline-dark mt-5">
@@ -71,32 +71,32 @@ export default function Section8() {
                         <div className="swiper-wrapper z-1">
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={0}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-1.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-1.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={200}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-2.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-2.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={400}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-3.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-3.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={600}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-4.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-4.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={800}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-5.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-5.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
                                 <div className="rounded-4 overflow-hidden zoom-img" data-aos="zoom-in" data-aos-delay={1000}>
-                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-3.png" alt="AstraX" />
+                                    <img src="assets/imgs/pages/it-solutions/page-home/home-section-8/img-3.png" alt="Webency" />
                                 </div>
                             </SwiperSlide>
                         </div>

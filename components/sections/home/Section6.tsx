@@ -9,9 +9,9 @@ export default function Section6() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-3 order-lg-1 mt-lg-0 mt-8">
                             <div className="position-relative d-inline-block">
-                                <img className="rounded-3 wow img-custom-anim-left" src="assets/imgs/pages/it-solutions/page-home/home-section-6/img-1.png" alt="AstraX" />
+                                <img className="rounded-3 wow img-custom-anim-left" src="assets/imgs/pages/it-solutions/page-home/home-section-6/img-1.png" alt="Webency" />
                                 <div data-aos="fade-up" data-aos-delay={200}>
-                                    <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block border border-4 border-white shadow" src="assets/imgs/pages/it-solutions/page-home/home-section-6/img-2.png" alt="AstraX" />
+                                    <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block border border-4 border-white shadow" src="assets/imgs/pages/it-solutions/page-home/home-section-6/img-2.png" alt="Webency" />
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@ export default function Section6() {
                                         </svg>
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-5 mb-3 fs-20">info@astrax.com</h6>
+                                        <h6 className="mt-5 mb-3 fs-20">info@Webency.com</h6>
                                     </Link>
                                     <p className="mb-0">Media strategy encapsulates your intentions.</p>
                                 </div>
