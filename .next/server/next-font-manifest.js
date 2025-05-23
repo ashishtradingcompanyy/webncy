@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/ashishgupta/Documents/projects/bentos-next/webncy/app/layout":["static/media/92daa4d0098aa288-s.p.woff2","static/media/c22ccc5eb58b83e1-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

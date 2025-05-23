@@ -18,8 +18,10 @@ export default function Section1() {
                         <div className="col-lg-5 col-md-12">
                             <span className="btn-text text-white">ffff service provider</span>
                             <h1 className="text-white my-3 text-anime-style-3">
-                                Top #01 IT <br />
-                                Website Agency
+                                Webency Technology — 
+
+ <br />
+                                Your Local Digital Growth Partner
                             </h1>
                             <ul className="list-unstyled">
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-left" data-aos-delay={200}>
@@ -31,7 +33,7 @@ export default function Section1() {
                                             <path d="M9.77752 0.654773C9.54873 0.426023 9.17771 0.426023 8.94893 0.654812L3.77475 5.82899L1.05104 3.10528C0.822246 2.87649 0.45123 2.87649 0.222402 3.10528C-0.00642578 3.33407 -0.00642578 3.70509 0.222402 3.93391L3.36041 7.07192C3.47482 7.18634 3.62478 7.24352 3.77471 7.24352C3.92463 7.24352 4.07463 7.1863 4.189 7.07192L9.77752 1.48341C10.0063 1.25462 10.0063 0.883601 9.77752 0.654773Z" fill="white" />
                                         </svg>
                                     </div>
-                                    <p className="mb-0 text-white">Run loyalty program to reward customers</p>
+                                    <p className="mb-0 text-white">We help startups and businesses to turn ideas into digital reality. Let's build your online presence.</p>
                                 </li>
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-left" data-aos-delay={400}>
                                     <div className="position-relative">

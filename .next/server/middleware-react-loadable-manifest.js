@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"components/layout/Layout.tsx -> @/util/useBootstrap":{"id":7054,"files":["static/chunks/471.169c73fb49c968cc.js","static/chunks/54.7563a9c02716ebc5.js"]},"util/useTextAnimation2.ts -> gsap/all":{"id":4315,"files":["static/chunks/315.efe893da54cf7699.js"]}}';
