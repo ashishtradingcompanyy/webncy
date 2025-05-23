@@ -17,7 +17,7 @@ export default function Home() {
                 <Section4 bg="" />
                 <Section5 />
                 <Section6 />
-                <Section7 bg_section="bg-light-2" bg_card="bg-white" classList="" />
+                {/* <Section7 bg_section="bg-light-2" bg_card="bg-white" classList="" /> */}
                 <Section8 />
             </Layout>
         </>
