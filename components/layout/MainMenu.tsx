@@ -9,7 +9,7 @@ export default function MainMenu() {
                     Home
                 </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
                 <Link className="nav-link text-uppercase" href="/about">
                     About
                 </Link>
@@ -40,7 +40,7 @@ export default function MainMenu() {
                         </Link>
                     </li>
                 </ul>
-            </li>
+            </li> */}
             <li className="nav-item">
                 <Link className="nav-link text-uppercase" href="/contact">
                     contact

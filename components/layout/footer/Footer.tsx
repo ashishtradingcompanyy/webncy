@@ -24,10 +24,10 @@ export default function Footer() {
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <h5 className="mb-0 ">Astrax</h5>
+                                            <h5 className="mb-0 ">Webency</h5>
                                         </Link>
                                         <p className=" py-3">
-                                            Astrax embarks on a journey of <br />
+                                            Webency embarks on a journey of <br />
                                             learning &amp; skill-building today.
                                         </p>
                                         <Link href="#" className="d-flex gap-2">
@@ -37,8 +37,8 @@ export default function Footer() {
                                                 </svg>
                                             </div>
                                             <p>
-                                                123 Main Street, Springfield, <br />
-                                                Illinois, 62701, USA
+                                                Main Road Bilaunji Waidhan <br />
+                                                Distt - Singrauli Madhya Pradesh (M.P.)
                                             </p>
                                         </Link>
                                         <Link href="#" className="d-flex gap-2">
@@ -48,7 +48,7 @@ export default function Footer() {
                                                     <path d="M21.5999 9.74227L11.9998 14.5423L2.3999 9.74233V16.8008C2.3999 18.1263 3.47442 19.2008 4.7999 19.2008H19.1999C20.5254 19.2008 21.5999 18.1263 21.5999 16.8008V9.74227Z" fill="white" />
                                                 </svg>
                                             </div>
-                                            <p>support@astrax.com</p>
+                                            <p>support@Webency.com</p>
                                         </Link>
                                     </div>
                                     <div className="col-lg-7 mt-lg-0 mt-8">
@@ -167,7 +167,7 @@ export default function Footer() {
                             <div className="text-center py-4 d-flex align-items-center justify-content-center flex-wrap border-top">
                                 <p className=" opacity-50 mb-0">Copyright &amp; design by</p>
                                 <Link href="#">
-                                    <p className="fw-medium opacity-100 mb-0">&nbsp; ©Alithemes &nbsp;</p>
+                                    <p className="fw-medium opacity-100 mb-0">&nbsp; @Webencytech &nbsp;</p>
                                 </Link>
                                 <p className=" opacity-50 mb-0">2025, All Rights Reserved</p>
                             </div>

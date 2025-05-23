@@ -39,7 +39,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                 <path className="fill-primary" d="M10.2917 22.1777L18.8717 19.0632L11.2859 9.45346L1.28177 13.3945L10.2917 22.1777Z" />
                                 <path className="fill-primary" d="M13.7243 12.2243L20.8121 17.7054L25.6875 6.50938L17.1442 0.277556L13.7243 12.2243Z" />
                             </svg>
-                            <h5 className="mb-0">Astrax</h5>
+                            <h5 className="mb-0">Webency</h5>
                         </Link>
                         <div className={`burger-icon burger-icon-white border rounded-circle ${isMobileMenu ? "burger-close" : ""}`} onClick={handleMobileMenu}>
                             <span className="burger-icon-top" />
@@ -53,9 +53,9 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                 <nav>
                                     <ul className="mobile-menu ps-0">
                                         <li>
-                                            <Link href="/">Homepages</Link>
+                                            <Link href="/">Homepage</Link>
                                         </li>
-                                        <li>
+                                        {/* <li>
                                             <Link href="/about">About Us</Link>
                                         </li>
                                         <li>
@@ -77,7 +77,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                                     <Link href="/pricing-plan">pricing</Link>
                                                 </li>
                                             </ul>
-                                        </li>
+                                        </li> */}
                                         <li>
                                             <Link href="/contact">Contact</Link>
                                         </li>
@@ -90,10 +90,10 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                         <div className="contact-info">
                             <ul className="list-wrap">
                                 <li>
-                                    <span className="opacity-50">Mail:</span> <Link href="/mailto:info@valom.com">info@astrax.com</Link>
+                                    <span className="opacity-50">Mail:</span> <Link href="/mailto:info@valom.com">info@Webency.com</Link>
                                 </li>
                                 <li>
-                                    <span className="opacity-50">Phone:</span> <Link href="/tel:0123456789">+123 888 9999</Link>
+                                    <span className="opacity-50">Phone:</span> <Link href="/tel:0123456789">+91 7000684914</Link>
                                 </li>
                             </ul>
                         </div>
