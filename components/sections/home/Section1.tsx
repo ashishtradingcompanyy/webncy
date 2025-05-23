@@ -16,10 +16,10 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-5 col-md-12">
-                            <span className="btn-text text-white">quality service provider</span>
+                            <span className="btn-text text-white">ffff service provider</span>
                             <h1 className="text-white my-3 text-anime-style-3">
                                 Top #01 IT <br />
-                                Solution Agency
+                                Website Agency
                             </h1>
                             <ul className="list-unstyled">
                                 <li className="d-flex align-items-center mb-3 gap-3" data-aos="fade-left" data-aos-delay={200}>
