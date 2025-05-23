@@ -31,7 +31,7 @@ export default function Section1() {
                                             </div>
                                             <div className="card-contact-content">
                                                 <h6 className="fs-18">Our Email</h6>
-                                                <p className="fw-medium mb-0">astraxitsolu@gmail.com</p>
+                                                <p className="fw-medium mb-0">contact@webency.tech</p>
                                             </div>
                                         </Link>
                                     </div>
@@ -54,7 +54,7 @@ export default function Section1() {
                                             </div>
                                             <div className="card-contact-content">
                                                 <h6 className="fs-18">Phone</h6>
-                                                <p className="fw-medium mb-0">+1 123 456 7890</p>
+                                                <p className="fw-medium mb-0">+91 7000 684 914</p>
                                             </div>
                                         </Link>
                                     </div>
@@ -131,11 +131,11 @@ export default function Section1() {
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.841693297398!2d-95.48278082391168!3d30.184515811919777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864736dd8ebbf40b%3A0x73582e99585df3f1!2sAvante%20Laser%20and%20Medispa!5e0!3m2!1svi!2s!4v1736490283816!5m2!1svi!2s" width={600} height={450} style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" />
                                 <div className="position-absolute bottom-50 start-50 bg-dark text-center p-4 rounded-4 z-2 d-none d-md-block">
                                     <p className="fs-16 text-white mb-2">
-                                        8708 Technology Forest Pl Suite <br />
-                                        125 -G, The Woodlands, TX 77381
+                                       Main Road Bilaunji Waidhan<br />
+                                        Distt -  Singrauli M.P. 486886
                                     </p>
                                     <Link href="#" className="text-white fw-semibold">
-                                        astrax@hotmail.com
+                                       contact@webency.com
                                     </Link>
                                 </div>
                             </div>
